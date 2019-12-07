@@ -1,4 +1,3 @@
-/* Sample solution for the garbage problem in NCPC2018 by Andreas Björklund */
 #include <stdio.h>
 
 int main()
